@@ -1,0 +1,12 @@
+# Gradle configuration.
+.gradle/
+build/
+
+# User configuration.
+local.properties
+
+# OS configurations.
+.DS_Store
+
+# Android NDK cmake output.
+.cxx/
