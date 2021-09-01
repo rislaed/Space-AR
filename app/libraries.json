@@ -1,0 +1,33 @@
+[
+  {
+    "artifactId": "core",
+    "excludes": [],
+    "groupId": "com.google.ar",
+    "versionName": "1.26.0"
+  },
+  {
+    "artifactId": "obj",
+    "excludes": [],
+    "groupId": "de.javagl",
+    "versionName": "0.2.1"
+  },
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "versionName": "1.1.0"
+  },
+  {
+    "artifactId": "material",
+    "excludes": [],
+    "groupId": "com.google.android.material",
+    "versionName": "1.1.0"
+  },
+  {
+    "artifactId": "glide",
+    "excludes": [],
+    "groupId": "com.github.bumptech.glide",
+    "scope": "compile",
+    "versionName": "4.12.0"
+  }
+]
